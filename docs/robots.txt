@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Disallow password-protected page
+Disallow: /rani
